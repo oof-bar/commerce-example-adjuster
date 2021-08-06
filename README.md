@@ -8,9 +8,9 @@ This module requires Craft CMS 3.0.0-RC1 or later, and Craft Commerce 2.0.0-beta
 
 ## Installation
 
-To install the module, follow these instructions.
+To install the module, download this repository as a ZIP, unpack it, and put the folder into your project's `modules` directory, named `exampleadjuster`.
 
-Ensure your module is loaded on every request by adding entries to your `app.php` file:
+Ensure the module is loaded on every request by adding entries to your `app.php` file:
 
 ```php
 return [
